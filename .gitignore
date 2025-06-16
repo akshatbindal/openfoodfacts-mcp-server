@@ -37,8 +37,7 @@ jspm_packages/
 coverage/
 
 # Build output
-dist/
-build/
+
 
 # Mac system files
 .DS_Store
